@@ -5,7 +5,7 @@
  * Version:     1.0.0
  * Author:      Not Web / Parsa
  * Author URI:  https://notweb.ir
- * Text Domain: liquid-widget
+ * Text Domain: liquid-widgets
  *
  * Requires Plugins: elementor
  * Elementor tested up to: 3.25.0
