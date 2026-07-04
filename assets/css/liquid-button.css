@@ -1,0 +1,20 @@
+.liquid-widgets-button{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+
+    padding:12px 30px;
+
+    border-radius:14px;
+
+    background:#4b6bfb;
+    color:#fff;
+
+    text-decoration:none;
+
+    transition:.3s;
+}
+
+.liquid-widgets-button:hover{
+    opacity:.85;
+}
